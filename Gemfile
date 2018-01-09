@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+
 # 회원 권한 기능
 gem 'cancancan', '~> 2.0'
 
@@ -14,6 +15,9 @@ gem 'carrierwave', '~> 1.0'
 
 # 이미지편집
 gem 'mini_magick'
+
+# figaro
+gem 'figaro'
 
 gem 'simple_form'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
